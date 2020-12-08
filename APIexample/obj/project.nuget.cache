@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/vxD9qQSdk/ZdSHsHsCGwVa3utHs6YHPrfSdS9kN0ef4jDgaKgyOsUOPvlwANXyTpODg43nGysXE+iM/Rdpj4g==",
+  "success": true,
+  "projectFilePath": "C:\\TrueCodersPC\\repos\\APIexample\\APIexample\\APIexample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mjhog\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

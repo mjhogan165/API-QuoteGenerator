@@ -1,0 +1,15 @@
+C:\TrueCodersPC\repos\APIexample\APIexample\bin\Debug\netcoreapp3.1\APIexample.exe
+C:\TrueCodersPC\repos\APIexample\APIexample\obj\Debug\netcoreapp3.1\APIexample.csprojAssemblyReference.cache
+C:\TrueCodersPC\repos\APIexample\APIexample\obj\Debug\netcoreapp3.1\APIexample.AssemblyInfoInputs.cache
+C:\TrueCodersPC\repos\APIexample\APIexample\obj\Debug\netcoreapp3.1\APIexample.AssemblyInfo.cs
+C:\TrueCodersPC\repos\APIexample\APIexample\bin\Debug\netcoreapp3.1\APIexample.deps.json
+C:\TrueCodersPC\repos\APIexample\APIexample\bin\Debug\netcoreapp3.1\APIexample.runtimeconfig.json
+C:\TrueCodersPC\repos\APIexample\APIexample\bin\Debug\netcoreapp3.1\APIexample.runtimeconfig.dev.json
+C:\TrueCodersPC\repos\APIexample\APIexample\bin\Debug\netcoreapp3.1\APIexample.dll
+C:\TrueCodersPC\repos\APIexample\APIexample\bin\Debug\netcoreapp3.1\APIexample.pdb
+C:\TrueCodersPC\repos\APIexample\APIexample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\TrueCodersPC\repos\APIexample\APIexample\obj\Debug\netcoreapp3.1\APIexample.csproj.CoreCompileInputs.cache
+C:\TrueCodersPC\repos\APIexample\APIexample\obj\Debug\netcoreapp3.1\APIexample.csproj.CopyComplete
+C:\TrueCodersPC\repos\APIexample\APIexample\obj\Debug\netcoreapp3.1\APIexample.dll
+C:\TrueCodersPC\repos\APIexample\APIexample\obj\Debug\netcoreapp3.1\APIexample.pdb
+C:\TrueCodersPC\repos\APIexample\APIexample\obj\Debug\netcoreapp3.1\APIexample.genruntimeconfig.cache
